@@ -1,0 +1,20 @@
+h2{
+    color: orange;
+}
+
+.test-box{
+    width: 200px;
+}
+
+.test-box-nosizing{
+    width: 200px;
+    border: 50px;
+    padding: 50px;
+}
+
+.text-box-sizing{
+    width: 200px;
+    border: 50px;
+    padding: 50px;
+    box-sizing: border-box;
+}
